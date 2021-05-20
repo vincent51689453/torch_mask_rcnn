@@ -9,7 +9,7 @@ $ pip3 install torchvision==0.5.0
 $ sudo apt-get install python3-matplotlib
 ```
 
-After the above installation, please download the network from the link below and copy to /home/vincent/.cache/torch/checkpoints/maskrcnn_resnet50_fpn_coco-bf2d0c1e.pth
+After the above installation, please download the network from the link below and copy to */home/vincent/.cache/torch/checkpoints/maskrcnn_resnet50_fpn_coco-bf2d0c1e.pth*
 
 https://download.pytorch.org/models/maskrcnn_resnet50_fpn_coco-bf2d0c1e.pth
 
